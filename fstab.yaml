@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p137782-e1396984.adobeaemcloud.com/bin/franklin.delivery/aemholapac/eds-ue-wknd/main"
+    url: "https://author-p159455-e1699597.adobeaemcloud.com/bin/franklin.delivery/aemholapac/eds-ue-wknd/main"
     type: "markup"
     suffix: ".html"
  
